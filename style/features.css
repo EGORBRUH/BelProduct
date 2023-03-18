@@ -24,16 +24,16 @@
 }
 
 .features__item_one {
-  background-image: var(--url-features-one);
+  background-image: url("/images/tree.svg");
 }
 .features__item_two {
-  background-image: var(--url-features-two);
+  background-image: url("/images/christmas-decorations.svg");
 }
 .features__item_three {
-  background-image: var(--url-features-three);
+  background-image: url("/images/flowers.svg");
 }
 .features__item_four {
-  background-image: var(--url-features-four);
+  background-image: url("/images/delivery-truck.svg");
 }
 
 
