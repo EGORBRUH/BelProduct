@@ -2,10 +2,12 @@
 .pay {
   padding: 60px 0 80px;
   background-color: var(--second-bg-color);
-  color: var(--main-color)
+  color: var(--main-color);
+  text-align: center;
 }
 
 .pay__title {
+  text-align: center;
   font-weight: 700;
   font-size: 70px;
   line-height: 110%;
@@ -15,7 +17,7 @@
 
 .pay__list {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   gap: 20px;
 }
 
