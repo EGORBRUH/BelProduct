@@ -24,16 +24,17 @@
 }
 
 .features__item_one {
-  background-image: url("/images/free-icon-factory-plant-4273935.png");
+  display: block;
+  background-image: url("../images/free-icon-factory-plant-4273935.png");
 }
 .features__item_two {
-  background-image: url("/images/delivery-truck.svg");
+  background-image: url("../images/delivery-truck.svg");
 }
 .features__item_three {
-  background-image: url("/images/flowers.svg");
+  background-image: url("../images/flowers.svg");
 }
 .features__item_four {
-  background-image: url("/images/free-icon-quality-3500896.png");
+  background-image: url("../images/free-icon-quality-3500896.png");
 }
 
 
