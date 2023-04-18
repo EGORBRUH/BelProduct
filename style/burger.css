@@ -1,17 +1,17 @@
 .burger {
   display: none;
+  --width: 21px;
+  --height: 14px;
+  --size-line: 2px;
+  --color: var()
 }
-
-
 
 @media  (max-width : 1000px) {
   .burger {
     display: block;
   }
 }
-@media  (max-width : 760px)  {
 
-}
 @media  (max-width : 580px)  {
 
 }
